@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TestUnrealEngine.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{73C2E1F1-A524-436E-95E9-0DFD48F32009}</UniqueIdentifier>
+      <UniqueIdentifier>{BE9DEE69-0CA9-4CD7-BE7E-9A6BCFECC05A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TestUnrealEngine.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,9 @@
     <None Include="..\..\Source\TestUnrealEngineEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{D502180C-8B2B-4F95-9814-5D648E3534D6}</UniqueIdentifier>
+      <UniqueIdentifier>{BED8317E-FEAE-42F7-B324-D6457CD756B5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,9 +24,30 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\TestUnrealEngine">
-      <UniqueIdentifier>{DD9F660F-D6DD-43EB-9A9A-3BD6B3BEB797}</UniqueIdentifier>
+      <UniqueIdentifier>{C631A0B9-B1ED-487B-B85F-60AA51CD1CC7}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TestUnrealEngine\MyAnimInstance.cpp">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestUnrealEngine\MyAnimInstance.h">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestUnrealEngine\MyCharacter.cpp">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestUnrealEngine\MyCharacter.h">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestUnrealEngine\MyGameModeBase.cpp">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestUnrealEngine\MyGameModeBase.h">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClInclude>
     <None Include="..\..\Source\TestUnrealEngine\TestUnrealEngine.Build.cs">
       <Filter>Source\TestUnrealEngine</Filter>
     </None>

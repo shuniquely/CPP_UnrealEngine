@@ -32,16 +32,14 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\shuni\Desktop\CPP_UE4\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Inc\TestUnrealEngine
-/I C:\Users\shuni\Desktop\CPP_UE4\TestUnrealEngine\Source
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
+/I Runtime\Engine\Classes
+/I Runtime\Engine\Public
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
-/I Runtime\Engine\Classes
-/I Runtime\Engine\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\NetCore
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
@@ -233,6 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
+/I C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Inc\TestUnrealEngine
+/I C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -262,12 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\shuni\Desktop\CPP_UE4\TestUnrealEngine\Intermediate\Build\Win64\TestUnrealEngineEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\shuni\Desktop\CPP_UE4\TestUnrealEngine\Intermediate\Build\Win64\TestUnrealEngineEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\shuni\Desktop\CPP_UE4\TestUnrealEngine\Intermediate\Build\Win64\TestUnrealEngineEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\shuni\Desktop\CPP_UE4\TestUnrealEngine\Source\TestUnrealEngine\TestUnrealEngine.cpp"
-/FI"C:\Users\shuni\Desktop\CPP_UE4\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\Definitions.TestUnrealEngine.h"
-/Fo"C:\Users\shuni\Desktop\CPP_UE4\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\TestUnrealEngine.cpp.obj"
+/FI"C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\TestUnrealEngineEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\TestUnrealEngineEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\TestUnrealEngineEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Source\TestUnrealEngine\TestUnrealEngine.cpp"
+/FI"C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\Definitions.TestUnrealEngine.h"
+/Fo"C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\TestUnrealEngine.cpp.obj"
 /TP
 /GR-
 /W4
