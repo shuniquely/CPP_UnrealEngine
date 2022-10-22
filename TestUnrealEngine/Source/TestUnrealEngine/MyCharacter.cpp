@@ -59,9 +59,9 @@ void AMyCharacter::BeginPlay()
 
 	if (CurrentWeapon)
 	{
-		CurrentWeapon->AttachToComponent(GetMesh(),
+		/*CurrentWeapon->AttachToComponent(GetMesh(),
 			FAttachmentTransformRules::SnapToTargetNotIncludingScale,
-			WeaponSocket);
+			WeaponSocket);*/
 	}
 }
 

@@ -958,3 +958,1041 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.22-11.39.05:624][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2022.10.22-11.39.05:660][874]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2022.10.22-11.40.35:690][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.22-12.02.28:538][327]LogSlate: Window '새 채널' being destroyed
+[2022.10.22-12.04.52:723][515]LogSlate: Window '새 프로파일' being destroyed
+[2022.10.22-12.05.09:157][902]LogSlate: Window '프로파일 편집' being destroyed
+[2022.10.22-13.38.35:378][849]Candidate modules for hot reload:
+[2022.10.22-13.38.35:378][849]  TestUnrealEngine
+[2022.10.22-13.38.35:378][849]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TestUnrealEngine,5216 TestUnrealEngineEditor Win64 Development -Project="C:/Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/TestUnrealEngine.uproject" "C:/Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/TestUnrealEngine.uproject"  -IgnoreJunk]
+[2022.10.22-13.38.35:381][849]Warning: Starting HotReload took  0.1s.
+[2022.10.22-13.38.53:336][950]CompilerResultsLog: New page: 컴파일 - 2022. 10. 23. 오전 7:38:53
+[2022.10.22-13.38.53:337][950]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine).
+[2022.10.22-13.38.53:337][950]CompilerResultsLog: Parsing headers for TestUnrealEngineEditor
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\TestUnrealEngine.uproject" "C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\TestUnrealEngineEditor\Development\TestUnrealEngineEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\shuni\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.10.22-13.38.53:337][950]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.10.22-13.38.53:337][950]CompilerResultsLog: Reflection code generated for TestUnrealEngineEditor in 11.8914999 seconds
+[2022.10.22-13.38.53:337][950]CompilerResultsLog: Building TestUnrealEngineEditor...
+[2022.10.22-13.38.53:337][950]CompilerResultsLog: Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.10.22-13.38.53:337][950]CompilerResultsLog: Building 10 actions with 12 processes...
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:   [1/10] TestUnrealEngine.init.gen.cpp
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:   [2/10] MyWeapon.gen.cpp
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:   [3/10] MyAnimInstance.cpp
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:   [4/10] MyWeapon.cpp
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:   [5/10] MyGameModeBase.cpp
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:   [6/10] MyCharacter.gen.cpp
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:   [7/10] MyCharacter.cpp
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:   [8/10] UE4Editor-TestUnrealEngine-5216.lib
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:      C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-5216.lib ???̺귯?? ?? C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-5216.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:   [9/10] UE4Editor-TestUnrealEngine-5216.dll
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:      C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-5216.suppressed.lib ???̺귯?? ?? C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-5216.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.10.22-13.38.53:337][950]CompilerResultsLog:   [10/10] TestUnrealEngineEditor.target
+[2022.10.22-13.38.53:337][950]CompilerResultsLog: Total time in Parallel executor: 5.06 seconds
+[2022.10.22-13.38.53:337][950]CompilerResultsLog: Total execution time: 17.87 seconds
+[2022.10.22-13.38.53:337][950]LogMainFrame: MainFrame: Module compiling took 17.980 seconds
+[2022.10.22-13.38.53:367][950]LogClass: Could not find existing class MyWeapon in package /Script/TestUnrealEngine for HotReload, assuming new class
+[2022.10.22-13.38.53:374][950]LogHotReload: Re-instancing MyWeapon after hot-reload.
+[2022.10.22-13.38.53:375][950]LogActor: Warning: MyWeapon /Engine/Transient.World_0:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.38.53:381][950]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TestUnrealEngine' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2022.10.22-13.38.53:384][950]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.10.22-13.38.53:451][950]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0100 seconds. Added 3827 classes and 930 folders.
+[2022.10.22-13.38.53:452][950]Display: HotReload took 18.1s.
+[2022.10.22-13.38.53:482][950]LogSlate: Took 0.009307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.10.22-13.38.53:482][950]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ϰ (U+03f0)'
+[2022.10.22-13.38.53:493][950]LogSlate: Took 0.009888 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2022.10.22-13.38.53:510][952]LogActor: Warning: MyWeapon /Engine/Transient.World_0:PersistentLevel.MyWeapon_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.39.10:050][891]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-13.39.10:055][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-13.39.10:055][891]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 7:39:10)
+[2022.10.22-13.39.10:081][891]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-13.39.10:083][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002324s)
+[2022.10.22-13.39.10:084][891]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-13.39.10:084][891]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2022.10.22-13.39.10:084][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003736s)
+[2022.10.22-13.39.10:089][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.22-13.39.10:090][891]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.22-13.39.10:090][891]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-13.39.10:090][891]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-13.39.10:090][891]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-13.39.10:090][891]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-13.39.10:090][891]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-13.39.10:090][891]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-13.39.10:090][891]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-13.39.10:090][891]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-13.39.10:091][891]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-13.39.10:091][891]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-13.39.10:091][891]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-13.39.10:091][891]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-13.39.10:093][891]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-13.39.10:093][891]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-13.39.10:101][891]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-13.39.10:101][891]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-13.39.10:101][891]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-13.39.10:101][891]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-13.39.10:102][891]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-13.39.10:102][891]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-13.39.10:102][891]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-13.39.10:103][891]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-13.39.10:103][891]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-13.39.10:103][891]LogInit: FAudioDevice initialized.
+[2022.10.22-13.39.10:103][891]LogAudio: Display: Audio Device (ID: 3) registered with world 'DefaultMap'.
+[2022.10.22-13.39.10:109][891]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-13.39.10:110][891]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-22.39.10
+[2022.10.22-13.39.10:111][891]LogWorld: Bringing up level for play took: 0.001354
+[2022.10.22-13.39.10:111][891]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.10.22-13.39.10:113][891]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.39.10:114][891]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.39.10:114][891]PIE: 서버가 로그인했습니다.
+[2022.10.22-13.39.10:115][891]PIE: 에디터에서 플레이 총 시작 시간 0.061초입니다.
+[2022.10.22-13.39.14:932][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-13.39.14:932][461]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-13.39.14:933][461]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-13.39.14:933][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-13.39.14:944][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-13.39.14:946][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-13.39.14:949][461]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-13.39.14:949][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-13.39.14:950][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-13.39.14:952][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-13.39.14:954][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.22-13.39.14:991][463]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.10.22-13.39.16:000][584]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-13.39.16:004][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-13.39.16:004][584]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 7:39:16)
+[2022.10.22-13.39.16:031][584]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-13.39.16:033][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002207s)
+[2022.10.22-13.39.16:034][584]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-13.39.16:035][584]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2022.10.22-13.39.16:035][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003690s)
+[2022.10.22-13.39.16:039][584]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.22-13.39.16:040][584]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.22-13.39.16:040][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-13.39.16:040][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-13.39.16:040][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-13.39.16:040][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-13.39.16:040][584]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-13.39.16:040][584]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-13.39.16:040][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-13.39.16:040][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-13.39.16:040][584]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-13.39.16:040][584]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-13.39.16:040][584]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-13.39.16:040][584]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-13.39.16:042][584]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-13.39.16:042][584]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-13.39.16:049][584]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-13.39.16:049][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-13.39.16:049][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-13.39.16:049][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-13.39.16:050][584]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-13.39.16:050][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-13.39.16:050][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-13.39.16:051][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-13.39.16:051][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-13.39.16:051][584]LogInit: FAudioDevice initialized.
+[2022.10.22-13.39.16:051][584]LogAudio: Display: Audio Device (ID: 4) registered with world 'DefaultMap'.
+[2022.10.22-13.39.16:060][584]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-13.39.16:061][584]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-22.39.16
+[2022.10.22-13.39.16:061][584]LogWorld: Bringing up level for play took: 0.001193
+[2022.10.22-13.39.16:061][584]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.10.22-13.39.16:064][584]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.39.16:064][584]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.39.16:064][584]PIE: 서버가 로그인했습니다.
+[2022.10.22-13.39.16:065][584]PIE: 에디터에서 플레이 총 시작 시간 0.062초입니다.
+[2022.10.22-13.39.18:032][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-13.39.18:032][816]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-13.39.18:032][816]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-13.39.18:033][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-13.39.18:037][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-13.39.18:039][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-13.39.18:042][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-13.39.18:043][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-13.39.18:044][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-13.39.18:047][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.22-13.39.18:115][822]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.10.22-13.41.23:671][244]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-13.41.23:676][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-13.41.23:676][244]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 7:41:23)
+[2022.10.22-13.41.23:708][244]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-13.41.23:711][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002840s)
+[2022.10.22-13.41.23:712][244]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-13.41.23:712][244]LogPlayLevel: PIE: World Init took: (0.001576s)
+[2022.10.22-13.41.23:712][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.004673s)
+[2022.10.22-13.41.23:717][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.22-13.41.23:717][244]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.10.22-13.41.23:718][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-13.41.23:718][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-13.41.23:718][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-13.41.23:718][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-13.41.23:718][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-13.41.23:718][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-13.41.23:718][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-13.41.23:718][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-13.41.23:718][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-13.41.23:718][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-13.41.23:718][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-13.41.23:718][244]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-13.41.23:720][244]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-13.41.23:720][244]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-13.41.23:728][244]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-13.41.23:728][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-13.41.23:728][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-13.41.23:728][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-13.41.23:728][244]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-13.41.23:728][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-13.41.23:728][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-13.41.23:729][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-13.41.23:729][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-13.41.23:729][244]LogInit: FAudioDevice initialized.
+[2022.10.22-13.41.23:729][244]LogAudio: Display: Audio Device (ID: 5) registered with world 'DefaultMap'.
+[2022.10.22-13.41.23:735][244]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-13.41.23:737][244]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-22.41.23
+[2022.10.22-13.41.23:737][244]LogWorld: Bringing up level for play took: 0.001237
+[2022.10.22-13.41.23:737][244]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.10.22-13.41.23:740][244]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.41.23:740][244]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.41.23:740][244]PIE: 서버가 로그인했습니다.
+[2022.10.22-13.41.23:741][244]PIE: 에디터에서 플레이 총 시작 시간 0.066초입니다.
+[2022.10.22-13.41.25:079][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-13.41.25:079][397]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-13.41.25:079][397]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-13.41.25:079][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-13.41.25:089][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-13.41.25:091][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-13.41.25:095][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-13.41.25:095][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-13.41.25:096][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-13.41.25:100][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.22-13.41.25:181][401]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.10.22-13.41.27:010][562]Candidate modules for hot reload:
+[2022.10.22-13.41.27:011][562]  TestUnrealEngine
+[2022.10.22-13.41.27:011][562]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TestUnrealEngine,1737 TestUnrealEngineEditor Win64 Development -Project="C:/Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/TestUnrealEngine.uproject" "C:/Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/TestUnrealEngine.uproject"  -IgnoreJunk]
+[2022.10.22-13.41.27:013][562]Warning: Starting HotReload took  0.2s.
+[2022.10.22-13.41.29:883][858]CompilerResultsLog: New page: 컴파일 - 2022. 10. 23. 오전 7:41:29
+[2022.10.22-13.41.29:883][858]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine).
+[2022.10.22-13.41.29:883][858]CompilerResultsLog: Building TestUnrealEngineEditor...
+[2022.10.22-13.41.29:883][858]CompilerResultsLog: Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.10.22-13.41.29:883][858]CompilerResultsLog: Building 4 actions with 12 processes...
+[2022.10.22-13.41.29:883][858]CompilerResultsLog:   [1/4] MyCharacter.cpp
+[2022.10.22-13.41.29:883][858]CompilerResultsLog:   [2/4] UE4Editor-TestUnrealEngine-1737.lib
+[2022.10.22-13.41.29:883][858]CompilerResultsLog:      C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-1737.lib ???̺귯?? ?? C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-1737.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.10.22-13.41.29:883][858]CompilerResultsLog:   [3/4] UE4Editor-TestUnrealEngine-1737.dll
+[2022.10.22-13.41.29:883][858]CompilerResultsLog:      C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-1737.suppressed.lib ???̺귯?? ?? C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-1737.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.10.22-13.41.29:883][858]CompilerResultsLog:   [4/4] TestUnrealEngineEditor.target
+[2022.10.22-13.41.29:883][858]CompilerResultsLog: Total time in Parallel executor: 2.09 seconds
+[2022.10.22-13.41.29:883][858]CompilerResultsLog: Total execution time: 2.80 seconds
+[2022.10.22-13.41.29:883][858]LogMainFrame: MainFrame: Module compiling took 2.876 seconds
+[2022.10.22-13.41.29:922][858]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TestUnrealEngine' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2022.10.22-13.41.29:926][858]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.10.22-13.41.29:973][858]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0097 seconds. Added 3827 classes and 930 folders.
+[2022.10.22-13.41.29:973][858]Display: HotReload took  3.1s.
+[2022.10.22-13.41.31:155][988]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-13.41.31:160][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-13.41.31:160][988]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 7:41:31)
+[2022.10.22-13.41.31:160][988]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-13.41.31:162][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002197s)
+[2022.10.22-13.41.31:164][988]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-13.41.31:164][988]LogPlayLevel: PIE: World Init took: (0.001616s)
+[2022.10.22-13.41.31:164][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003930s)
+[2022.10.22-13.41.31:168][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.10.22-13.41.31:169][988]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.22-13.41.31:169][988]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-13.41.31:169][988]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-13.41.31:169][988]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-13.41.31:169][988]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-13.41.31:169][988]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-13.41.31:169][988]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-13.41.31:169][988]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-13.41.31:169][988]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-13.41.31:169][988]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-13.41.31:169][988]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-13.41.31:169][988]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-13.41.31:169][988]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-13.41.31:171][988]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-13.41.31:171][988]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-13.41.31:178][988]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-13.41.31:178][988]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-13.41.31:179][988]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-13.41.31:179][988]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-13.41.31:179][988]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-13.41.31:179][988]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-13.41.31:179][988]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-13.41.31:180][988]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-13.41.31:180][988]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-13.41.31:180][988]LogInit: FAudioDevice initialized.
+[2022.10.22-13.41.31:180][988]LogAudio: Display: Audio Device (ID: 6) registered with world 'DefaultMap'.
+[2022.10.22-13.41.31:187][988]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-13.41.31:188][988]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-22.41.31
+[2022.10.22-13.41.31:188][988]LogWorld: Bringing up level for play took: 0.001106
+[2022.10.22-13.41.31:188][988]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.10.22-13.41.31:191][988]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.41.31:191][988]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.41.31:191][988]PIE: 서버가 로그인했습니다.
+[2022.10.22-13.41.31:192][988]PIE: 에디터에서 플레이 총 시작 시간 0.033초입니다.
+[2022.10.22-13.41.35:895][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.10.22-13.41.40:461][  5]LogEditorViewport: Clicking on Actor (LMB): MyWeapon (MyWeapon1)
+[2022.10.22-13.43.56:679][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-13.43.56:679][261]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-13.43.56:680][261]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-13.43.56:681][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-13.43.56:690][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-13.43.56:692][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-13.43.56:695][261]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-13.43.56:695][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-13.43.56:696][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-13.43.56:699][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-13.43.56:700][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.22-13.43.56:741][264]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.10.22-13.59.04:651][ 93]LogHotReload: New module detected: UE4Editor-TestUnrealEngine-0035.dll
+[2022.10.22-13.59.05:328][ 96]LogHotReload: Starting Hot-Reload from IDE
+[2022.10.22-13.59.05:382][ 96]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TestUnrealEngine' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2022.10.22-13.59.05:384][ 96]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.10.22-13.59.05:428][ 96]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3827 classes and 930 folders.
+[2022.10.22-13.59.05:431][ 96]Display: HotReload took  0.1s.
+[2022.10.22-13.59.08:495][322]Candidate modules for hot reload:
+[2022.10.22-13.59.08:495][322]  TestUnrealEngine
+[2022.10.22-13.59.08:495][322]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TestUnrealEngine,2709 TestUnrealEngineEditor Win64 Development -Project="C:/Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/TestUnrealEngine.uproject" "C:/Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/TestUnrealEngine.uproject"  -IgnoreJunk]
+[2022.10.22-13.59.08:497][322]Warning: Starting HotReload took  0.0s.
+[2022.10.22-13.59.10:181][442]CompilerResultsLog: New page: 컴파일 - 2022. 10. 23. 오전 7:59:10
+[2022.10.22-13.59.10:182][442]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine).
+[2022.10.22-13.59.10:182][442]CompilerResultsLog: Building TestUnrealEngineEditor...
+[2022.10.22-13.59.10:182][442]CompilerResultsLog: Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.10.22-13.59.10:182][442]CompilerResultsLog: Building 3 actions with 12 processes...
+[2022.10.22-13.59.10:182][442]CompilerResultsLog:   [1/3] UE4Editor-TestUnrealEngine-2709.lib
+[2022.10.22-13.59.10:182][442]CompilerResultsLog:      C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-2709.lib ???̺귯?? ?? C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-2709.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.10.22-13.59.10:182][442]CompilerResultsLog:   [2/3] UE4Editor-TestUnrealEngine-2709.dll
+[2022.10.22-13.59.10:182][442]CompilerResultsLog:      C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-2709.suppressed.lib ???̺귯?? ?? C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-2709.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.10.22-13.59.10:182][442]CompilerResultsLog:   [3/3] TestUnrealEngineEditor.target
+[2022.10.22-13.59.10:182][442]CompilerResultsLog: Total time in Parallel executor: 0.94 seconds
+[2022.10.22-13.59.10:182][442]CompilerResultsLog: Total execution time: 1.62 seconds
+[2022.10.22-13.59.10:182][442]LogMainFrame: MainFrame: Module compiling took 1.690 seconds
+[2022.10.22-13.59.10:208][442]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TestUnrealEngine' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2022.10.22-13.59.10:211][442]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.10.22-13.59.10:256][442]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0099 seconds. Added 3827 classes and 930 folders.
+[2022.10.22-13.59.10:256][442]Display: HotReload took  1.8s.
+[2022.10.22-13.59.31:707][868]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-13.59.31:712][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-13.59.31:712][868]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 7:59:31)
+[2022.10.22-13.59.31:712][868]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-13.59.31:714][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002017s)
+[2022.10.22-13.59.31:715][868]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-13.59.31:716][868]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2022.10.22-13.59.31:716][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003268s)
+[2022.10.22-13.59.31:720][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.10.22-13.59.31:721][868]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.10.22-13.59.31:721][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-13.59.31:721][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-13.59.31:721][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-13.59.31:721][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-13.59.31:721][868]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-13.59.31:721][868]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-13.59.31:721][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-13.59.31:721][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-13.59.31:722][868]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-13.59.31:722][868]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-13.59.31:722][868]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-13.59.31:722][868]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-13.59.31:724][868]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-13.59.31:724][868]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-13.59.31:731][868]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-13.59.31:732][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-13.59.31:732][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-13.59.31:732][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-13.59.31:732][868]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-13.59.31:732][868]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-13.59.31:732][868]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-13.59.31:733][868]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-13.59.31:733][868]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-13.59.31:733][868]LogInit: FAudioDevice initialized.
+[2022.10.22-13.59.31:733][868]LogAudio: Display: Audio Device (ID: 7) registered with world 'DefaultMap'.
+[2022.10.22-13.59.31:741][868]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-13.59.31:742][868]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-22.59.31
+[2022.10.22-13.59.31:743][868]LogWorld: Bringing up level for play took: 0.001178
+[2022.10.22-13.59.31:743][868]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.10.22-13.59.31:745][868]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.59.31:746][868]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.22-13.59.31:818][868]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.072 s
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: 
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1028]
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: Unable to bind delegate to 'OnCharacterOverlap' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: Stack: 
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdf6f0e7c8 UE4Editor-TestUnrealEngine-2709.dll!DispatchCheckVerify<bool,<lambda_258b6cc790334fee8c7d922854c2c092> >() [C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdf6f07b91 UE4Editor-TestUnrealEngine-2709.dll!AMyWeapon::PostInitializeComponents() [C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Source\TestUnrealEngine\MyWeapon.cpp:42]
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdd6664daf UE4Editor-Engine.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdd664e8b0 UE4Editor-Engine.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdd666879b UE4Editor-Engine.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdd6f7a466 UE4Editor-Engine.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdd6f7a908 UE4Editor-Engine.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdf6f0566f UE4Editor-TestUnrealEngine-2709.dll!AMyCharacter::BeginPlay() [C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Source\TestUnrealEngine\MyCharacter.cpp:58]
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdd6640c1f UE4Editor-Engine.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdd7a4ba95 UE4Editor-Engine.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdd6d8ca31 UE4Editor-Engine.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdd79efb3e UE4Editor-Engine.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdd6daeb09 UE4Editor-Engine.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdda282c45 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdda2a622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdda28397d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-13.59.31:818][868]LogOutputDevice: Error: [Callstack] 0x00007ffdda2c3772 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: [Callstack] 0x00007ffdda2c6d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: [Callstack] 0x00007ffdda2c65f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: [Callstack] 0x00007ffdd9d20c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: [Callstack] 0x00007ffdda622ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: [Callstack] 0x00007ff6153487a0 UE4Editor.exe!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: [Callstack] 0x00007ff615360fcc UE4Editor.exe!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: [Callstack] 0x00007ff6153610ba UE4Editor.exe!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: [Callstack] 0x00007ff6153640dd UE4Editor.exe!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: [Callstack] 0x00007ff615375984 UE4Editor.exe!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: [Callstack] 0x00007ff61537853a UE4Editor.exe!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: [Callstack] 0x00007ffe64c17034 KERNEL32.DLL!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: [Callstack] 0x00007ffe65a826a1 ntdll.dll!UnknownFunction []
+[2022.10.22-13.59.31:819][868]LogOutputDevice: Error: 
+[2022.10.22-13.59.31:820][868]LogStats:                SubmitErrorReport -  0.000 s
+[2022.10.22-13.59.33:494][868]LogStats:                    SendNewReport -  1.674 s
+[2022.10.22-13.59.33:494][868]LogStats:             FDebug::EnsureFailed -  1.748 s
+[2022.10.22-13.59.33:494][868]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.59.33:495][868]PIE: 서버가 로그인했습니다.
+[2022.10.22-13.59.33:495][868]PIE: 에디터에서 플레이 총 시작 시간 1.783초입니다.
+[2022.10.22-13.59.33:497][868]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.22-13.59.33:503][868]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-13.59.33:503][868]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-13.59.33:515][868]LogAudioMixer: Resetting audio stream to device id 
+[2022.10.22-13.59.33:519][868]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-13.59.33:519][868]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-13.59.34:412][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-13.59.34:412][961]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-13.59.34:413][961]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-13.59.34:413][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-13.59.34:420][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-13.59.34:422][961]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-13.59.34:426][961]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-13.59.34:426][961]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-13.59.34:427][961]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-13.59.34:429][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-13.59.34:431][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.22-13.59.34:491][968]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.10.22-13.59.37:368][248]LogEditor: Attempting to add actor of class 'MyWeapon' to level at -210.00,-240.00,20.00
+[2022.10.22-13.59.37:368][248]LogActor: Warning: MyWeapon /Game/Maps/DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.59.38:128][331]LogEditor: Attempting to add actor of class 'MyWeapon' to level at -170.00,-250.00,20.00
+[2022.10.22-13.59.38:128][331]LogActor: Warning: MyWeapon /Game/Maps/DefaultMap.DefaultMap:PersistentLevel.MyWeapon_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.59.39:133][392]LogEditor: Attempting to add actor of class 'MyWeapon' to level at -210.00,110.00,20.00
+[2022.10.22-13.59.39:133][392]LogActor: Warning: MyWeapon /Game/Maps/DefaultMap.DefaultMap:PersistentLevel.MyWeapon_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.59.39:933][476]LogEditor: Attempting to add actor of class 'MyWeapon' to level at -160.00,170.00,20.00
+[2022.10.22-13.59.39:934][476]LogActor: Warning: MyWeapon /Game/Maps/DefaultMap.DefaultMap:PersistentLevel.MyWeapon_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.59.47:402][366]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-13.59.47:408][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-13.59.47:408][366]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 7:59:47)
+[2022.10.22-13.59.47:408][366]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-13.59.47:410][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002116s)
+[2022.10.22-13.59.47:411][366]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-13.59.47:411][366]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2022.10.22-13.59.47:411][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003345s)
+[2022.10.22-13.59.47:415][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.22-13.59.47:416][366]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.10.22-13.59.47:417][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-13.59.47:417][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-13.59.47:417][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-13.59.47:417][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-13.59.47:417][366]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-13.59.47:417][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-13.59.47:417][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-13.59.47:417][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-13.59.47:417][366]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-13.59.47:417][366]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-13.59.47:417][366]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-13.59.47:417][366]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-13.59.47:419][366]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-13.59.47:419][366]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-13.59.47:426][366]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-13.59.47:426][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-13.59.47:426][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-13.59.47:426][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-13.59.47:426][366]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-13.59.47:426][366]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-13.59.47:426][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-13.59.47:427][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-13.59.47:427][366]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-13.59.47:427][366]LogInit: FAudioDevice initialized.
+[2022.10.22-13.59.47:427][366]LogAudio: Display: Audio Device (ID: 8) registered with world 'DefaultMap'.
+[2022.10.22-13.59.47:439][366]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-13.59.47:440][366]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-22.59.47
+[2022.10.22-13.59.47:440][366]LogWorld: Bringing up level for play took: 0.001156
+[2022.10.22-13.59.47:440][366]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.10.22-13.59.47:442][366]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.59.47:442][366]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-13.59.47:443][366]PIE: 서버가 로그인했습니다.
+[2022.10.22-13.59.47:443][366]PIE: 에디터에서 플레이 총 시작 시간 0.037초입니다.
+[2022.10.22-13.59.52:295][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-13.59.52:295][942]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-13.59.52:295][942]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-13.59.52:295][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-13.59.52:303][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-13.59.52:326][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-13.59.52:329][942]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-13.59.52:330][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-13.59.52:331][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-13.59.52:333][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-13.59.52:334][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.22-13.59.52:359][943]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.10.22-14.00.31:335][377]LogHotReload: New module detected: UE4Editor-TestUnrealEngine-0037.dll
+[2022.10.22-14.00.31:802][401]Candidate modules for hot reload:
+[2022.10.22-14.00.31:802][401]  TestUnrealEngine
+[2022.10.22-14.00.31:802][401]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TestUnrealEngine,6805 TestUnrealEngineEditor Win64 Development -Project="C:/Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/TestUnrealEngine.uproject" "C:/Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/TestUnrealEngine.uproject"  -IgnoreJunk]
+[2022.10.22-14.00.31:804][401]Warning: Starting HotReload took  0.0s.
+[2022.10.22-14.00.32:070][406]CompilerResultsLog: New page: 컴파일 - 2022. 10. 23. 오전 8:00:32
+[2022.10.22-14.00.32:070][406]CompilerResultsLog: ERROR: A conflicting instance of UnrealBuildTool is already running.
+[2022.10.22-14.00.32:070][406]LogMainFrame: MainFrame: Module compiling took 0.270 seconds
+[2022.10.22-14.00.32:078][406]Warning: HotReload failed, recompile failed
+[2022.10.22-14.00.32:203][408]LogHotReload: Starting Hot-Reload from IDE
+[2022.10.22-14.00.32:326][408]LogClass: Could not find existing class MyWeapon in package /Script/TestUnrealEngine for HotReload, assuming new class
+[2022.10.22-14.00.32:326][408]LogClass: Function OnCharacterOverlap is new.
+[2022.10.22-14.00.32:333][408]LogHotReload: Re-instancing MyWeapon after hot-reload.
+[2022.10.22-14.00.32:333][408]LogActor: Warning: MyWeapon /Engine/Transient.World_0:PersistentLevel.MyWeapon_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.00.32:333][408]LogActor: Warning: MyWeapon /Game/Maps/DefaultMap.DefaultMap:PersistentLevel.MyWeapon_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.00.32:356][408]LogActor: Warning: MyWeapon /Game/Maps/DefaultMap.DefaultMap:PersistentLevel.MyWeapon_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.00.32:384][408]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TestUnrealEngine' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2022.10.22-14.00.32:386][408]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.10.22-14.00.32:432][408]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0097 seconds. Added 3827 classes and 930 folders.
+[2022.10.22-14.00.32:432][408]Display: HotReload took  0.2s.
+[2022.10.22-14.00.32:474][410]LogActor: Warning: MyWeapon /Engine/Transient.World_0:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.00.34:725][605]Candidate modules for hot reload:
+[2022.10.22-14.00.34:725][605]  TestUnrealEngine
+[2022.10.22-14.00.34:725][605]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TestUnrealEngine,2129 TestUnrealEngineEditor Win64 Development -Project="C:/Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/TestUnrealEngine.uproject" "C:/Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/TestUnrealEngine.uproject"  -IgnoreJunk]
+[2022.10.22-14.00.34:727][605]Warning: Starting HotReload took  0.0s.
+[2022.10.22-14.00.36:227][725]CompilerResultsLog: New page: 컴파일 - 2022. 10. 23. 오전 8:00:36
+[2022.10.22-14.00.36:227][725]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine).
+[2022.10.22-14.00.36:227][725]CompilerResultsLog: Building TestUnrealEngineEditor...
+[2022.10.22-14.00.36:227][725]CompilerResultsLog: Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.10.22-14.00.36:227][725]CompilerResultsLog: Building 3 actions with 12 processes...
+[2022.10.22-14.00.36:227][725]CompilerResultsLog:   [1/3] UE4Editor-TestUnrealEngine-2129.lib
+[2022.10.22-14.00.36:227][725]CompilerResultsLog:      C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-2129.lib ???̺귯?? ?? C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-2129.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.10.22-14.00.36:227][725]CompilerResultsLog:   [2/3] UE4Editor-TestUnrealEngine-2129.dll
+[2022.10.22-14.00.36:227][725]CompilerResultsLog:      C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-2129.suppressed.lib ???̺귯?? ?? C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\UE4Editor-TestUnrealEngine-2129.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2022.10.22-14.00.36:227][725]CompilerResultsLog:   [3/3] TestUnrealEngineEditor.target
+[2022.10.22-14.00.36:227][725]CompilerResultsLog: Total time in Parallel executor: 0.80 seconds
+[2022.10.22-14.00.36:227][725]CompilerResultsLog: Total execution time: 1.44 seconds
+[2022.10.22-14.00.36:227][725]LogMainFrame: MainFrame: Module compiling took 1.505 seconds
+[2022.10.22-14.00.36:254][725]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TestUnrealEngine' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2022.10.22-14.00.36:256][725]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2022.10.22-14.00.36:300][725]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3827 classes and 930 folders.
+[2022.10.22-14.00.36:300][725]Display: HotReload took  1.6s.
+[2022.10.22-14.00.36:997][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.22-14.00.37:013][797]LogSavePackage: Moving '../../../../../../Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/Saved/DefaultMap_Auto1B722FC3245A74E2D67007B984E7E005E.tmp' to '../../../../../../Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/Saved/Autosaves/Game/Maps/DefaultMap_Auto1.umap'
+[2022.10.22-14.00.37:015][797]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DefaultMap' took 0.022
+[2022.10.22-14.00.37:015][797]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2022.10.22-14.00.37:967][897]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-14.00.37:972][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-14.00.37:973][897]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 8:00:37)
+[2022.10.22-14.00.38:010][897]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.00.38:013][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002597s)
+[2022.10.22-14.00.38:013][897]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-14.00.38:014][897]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2022.10.22-14.00.38:014][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003906s)
+[2022.10.22-14.00.38:019][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.22-14.00.38:020][897]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.10.22-14.00.38:020][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-14.00.38:020][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-14.00.38:020][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-14.00.38:020][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-14.00.38:020][897]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-14.00.38:020][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-14.00.38:020][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-14.00.38:020][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-14.00.38:020][897]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-14.00.38:021][897]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-14.00.38:021][897]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-14.00.38:021][897]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-14.00.38:023][897]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-14.00.38:023][897]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-14.00.38:031][897]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-14.00.38:031][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-14.00.38:031][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-14.00.38:031][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-14.00.38:032][897]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-14.00.38:032][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-14.00.38:032][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-14.00.38:033][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-14.00.38:033][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-14.00.38:033][897]LogInit: FAudioDevice initialized.
+[2022.10.22-14.00.38:033][897]LogAudio: Display: Audio Device (ID: 9) registered with world 'DefaultMap'.
+[2022.10.22-14.00.38:043][897]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-14.00.38:044][897]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-23.00.38
+[2022.10.22-14.00.38:044][897]LogWorld: Bringing up level for play took: 0.001169
+[2022.10.22-14.00.38:044][897]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.10.22-14.00.38:046][897]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.00.38:046][897]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.00.38:047][897]PIE: 서버가 로그인했습니다.
+[2022.10.22-14.00.38:047][897]PIE: 에디터에서 플레이 총 시작 시간 0.075초입니다.
+[2022.10.22-14.00.38:931][  2]LogTemp: Overlapped
+[2022.10.22-14.00.39:797][106]LogTemp: Overlapped
+[2022.10.22-14.00.39:806][107]LogTemp: Overlapped
+[2022.10.22-14.00.39:814][108]LogTemp: Overlapped
+[2022.10.22-14.00.39:822][109]LogTemp: Overlapped
+[2022.10.22-14.00.39:831][110]LogTemp: Overlapped
+[2022.10.22-14.00.39:839][111]LogTemp: Overlapped
+[2022.10.22-14.00.39:840][111]LogTemp: Overlapped
+[2022.10.22-14.00.40:174][151]LogTemp: Overlapped
+[2022.10.22-14.00.40:182][152]LogTemp: Overlapped
+[2022.10.22-14.00.40:190][153]LogTemp: Overlapped
+[2022.10.22-14.00.40:199][154]LogTemp: Overlapped
+[2022.10.22-14.00.40:207][155]LogTemp: Overlapped
+[2022.10.22-14.00.40:215][156]LogTemp: Overlapped
+[2022.10.22-14.00.40:223][157]LogTemp: Overlapped
+[2022.10.22-14.00.40:232][158]LogTemp: Overlapped
+[2022.10.22-14.00.40:240][159]LogTemp: Overlapped
+[2022.10.22-14.00.40:248][160]LogTemp: Overlapped
+[2022.10.22-14.00.40:257][161]LogTemp: Overlapped
+[2022.10.22-14.00.40:257][161]LogTemp: Overlapped
+[2022.10.22-14.00.40:432][182]LogTemp: Overlapped
+[2022.10.22-14.00.41:783][337]LogTemp: Overlapped
+[2022.10.22-14.00.41:783][337]LogTemp: Overlapped
+[2022.10.22-14.00.44:311][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.00.44:311][627]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.00.44:311][627]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-14.00.44:311][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.00.44:321][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-14.00.44:344][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.00.44:348][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.00.44:348][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.00.44:349][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.00.44:353][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.22-14.00.44:377][628]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.10.22-14.00.45:475][755]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-14.00.45:480][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-14.00.45:480][755]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 8:00:45)
+[2022.10.22-14.00.45:510][755]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.00.45:513][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002420s)
+[2022.10.22-14.00.45:513][755]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-14.00.45:514][755]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2022.10.22-14.00.45:514][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003546s)
+[2022.10.22-14.00.45:518][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.22-14.00.45:518][755]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.10.22-14.00.45:518][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-14.00.45:518][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-14.00.45:518][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-14.00.45:518][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-14.00.45:518][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-14.00.45:518][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-14.00.45:518][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-14.00.45:518][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-14.00.45:518][755]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-14.00.45:518][755]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-14.00.45:518][755]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-14.00.45:519][755]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-14.00.45:520][755]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-14.00.45:521][755]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-14.00.45:527][755]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-14.00.45:527][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-14.00.45:527][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-14.00.45:527][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-14.00.45:528][755]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-14.00.45:528][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-14.00.45:528][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-14.00.45:529][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-14.00.45:529][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-14.00.45:529][755]LogInit: FAudioDevice initialized.
+[2022.10.22-14.00.45:529][755]LogAudio: Display: Audio Device (ID: 10) registered with world 'DefaultMap'.
+[2022.10.22-14.00.45:533][755]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-14.00.45:535][755]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-23.00.45
+[2022.10.22-14.00.45:535][755]LogWorld: Bringing up level for play took: 0.001183
+[2022.10.22-14.00.45:535][755]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.10.22-14.00.45:537][755]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.00.45:537][755]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.00.45:537][755]PIE: 서버가 로그인했습니다.
+[2022.10.22-14.00.45:538][755]PIE: 에디터에서 플레이 총 시작 시간 0.059초입니다.
+[2022.10.22-14.00.49:733][257]LogTemp: Overlapped
+[2022.10.22-14.00.49:733][257]LogTemp: Overlapped
+[2022.10.22-14.00.51:049][415]LogTemp: Overlapped
+[2022.10.22-14.00.52:282][563]LogTemp: Overlapped
+[2022.10.22-14.00.53:123][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.00.53:123][661]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.00.53:123][661]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-14.00.53:123][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.00.53:134][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-14.00.53:157][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.00.53:160][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.00.53:160][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.00.53:161][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.00.53:165][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.22-14.00.53:214][663]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.10.22-14.00.59:397][400]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-14.00.59:402][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-14.00.59:402][400]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 8:00:59)
+[2022.10.22-14.00.59:422][400]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.00.59:424][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002140s)
+[2022.10.22-14.00.59:425][400]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-14.00.59:425][400]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2022.10.22-14.00.59:425][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003116s)
+[2022.10.22-14.00.59:429][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.22-14.00.59:430][400]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.10.22-14.00.59:430][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-14.00.59:430][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-14.00.59:430][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-14.00.59:430][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-14.00.59:430][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-14.00.59:430][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-14.00.59:431][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-14.00.59:431][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-14.00.59:432][400]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-14.00.59:432][400]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-14.00.59:432][400]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-14.00.59:432][400]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-14.00.59:434][400]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-14.00.59:434][400]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-14.00.59:441][400]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-14.00.59:441][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-14.00.59:441][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-14.00.59:441][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-14.00.59:441][400]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-14.00.59:441][400]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-14.00.59:441][400]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-14.00.59:442][400]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-14.00.59:442][400]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-14.00.59:442][400]LogInit: FAudioDevice initialized.
+[2022.10.22-14.00.59:442][400]LogAudio: Display: Audio Device (ID: 11) registered with world 'DefaultMap'.
+[2022.10.22-14.00.59:453][400]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-14.00.59:455][400]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-23.00.59
+[2022.10.22-14.00.59:455][400]LogWorld: Bringing up level for play took: 0.001167
+[2022.10.22-14.00.59:455][400]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.10.22-14.00.59:458][400]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.00.59:458][400]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.00.59:458][400]PIE: 서버가 로그인했습니다.
+[2022.10.22-14.00.59:459][400]PIE: 에디터에서 플레이 총 시작 시간 0.058초입니다.
+[2022.10.22-14.01.01:130][589]LogTemp: Overlapped
+[2022.10.22-14.01.01:130][589]LogTemp: Overlapped
+[2022.10.22-14.01.03:723][892]LogTemp: Overlapped
+[2022.10.22-14.01.03:723][892]LogTemp: Overlapped
+[2022.10.22-14.01.03:731][893]LogTemp: Overlapped
+[2022.10.22-14.01.03:731][893]LogTemp: Overlapped
+[2022.10.22-14.01.03:739][894]LogTemp: Overlapped
+[2022.10.22-14.01.03:740][894]LogTemp: Overlapped
+[2022.10.22-14.01.04:100][937]LogTemp: Overlapped
+[2022.10.22-14.01.04:100][937]LogTemp: Overlapped
+[2022.10.22-14.01.04:108][938]LogTemp: Overlapped
+[2022.10.22-14.01.04:108][938]LogTemp: Overlapped
+[2022.10.22-14.01.04:109][938]LogTemp: Overlapped
+[2022.10.22-14.01.04:109][938]LogTemp: Overlapped
+[2022.10.22-14.01.06:083][175]LogTemp: Overlapped
+[2022.10.22-14.01.06:083][175]LogTemp: Overlapped
+[2022.10.22-14.01.06:092][176]LogTemp: Overlapped
+[2022.10.22-14.01.06:092][176]LogTemp: Overlapped
+[2022.10.22-14.01.06:433][217]LogTemp: Overlapped
+[2022.10.22-14.01.06:433][217]LogTemp: Overlapped
+[2022.10.22-14.01.06:441][218]LogTemp: Overlapped
+[2022.10.22-14.01.06:441][218]LogTemp: Overlapped
+[2022.10.22-14.01.06:442][218]LogTemp: Overlapped
+[2022.10.22-14.01.06:442][218]LogTemp: Overlapped
+[2022.10.22-14.01.08:467][461]LogTemp: Overlapped
+[2022.10.22-14.01.08:467][461]LogTemp: Overlapped
+[2022.10.22-14.01.08:467][461]LogTemp: Overlapped
+[2022.10.22-14.01.08:467][461]LogTemp: Overlapped
+[2022.10.22-14.01.11:485][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.01.11:485][820]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.01.11:485][820]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-14.01.11:486][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.01.11:495][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-14.01.11:518][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.01.11:521][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.01.11:522][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.01.11:523][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.01.11:526][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.22-14.01.11:574][822]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.10.22-14.01.31:691][231]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-14.01.31:695][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-14.01.31:695][231]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 8:01:31)
+[2022.10.22-14.01.31:726][231]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.01.31:728][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002170s)
+[2022.10.22-14.01.31:730][231]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-14.01.31:730][231]LogPlayLevel: PIE: World Init took: (0.001425s)
+[2022.10.22-14.01.31:730][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003778s)
+[2022.10.22-14.01.31:734][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.22-14.01.31:735][231]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.10.22-14.01.31:735][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-14.01.31:735][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-14.01.31:735][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-14.01.31:735][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-14.01.31:735][231]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-14.01.31:735][231]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-14.01.31:735][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-14.01.31:735][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-14.01.31:735][231]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-14.01.31:735][231]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-14.01.31:735][231]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-14.01.31:735][231]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-14.01.31:737][231]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-14.01.31:737][231]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-14.01.31:744][231]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-14.01.31:744][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-14.01.31:744][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-14.01.31:744][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-14.01.31:745][231]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-14.01.31:745][231]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-14.01.31:745][231]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-14.01.31:746][231]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-14.01.31:746][231]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-14.01.31:746][231]LogInit: FAudioDevice initialized.
+[2022.10.22-14.01.31:746][231]LogAudio: Display: Audio Device (ID: 12) registered with world 'DefaultMap'.
+[2022.10.22-14.01.31:752][231]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-14.01.31:754][231]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-23.01.31
+[2022.10.22-14.01.31:754][231]LogWorld: Bringing up level for play took: 0.001191
+[2022.10.22-14.01.31:754][231]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.10.22-14.01.31:756][231]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.01.31:756][231]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.01.31:757][231]PIE: 서버가 로그인했습니다.
+[2022.10.22-14.01.31:757][231]PIE: 에디터에서 플레이 총 시작 시간 0.063초입니다.
+[2022.10.22-14.01.39:549][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.01.39:549][154]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.01.39:549][154]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-14.01.39:549][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.01.39:556][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-14.01.39:579][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.01.39:583][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.01.39:583][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.01.39:584][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.01.39:587][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.22-14.01.39:628][157]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.10.22-14.01.41:165][333]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-14.01.41:170][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-14.01.41:170][333]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 8:01:41)
+[2022.10.22-14.01.41:198][333]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.01.41:200][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002139s)
+[2022.10.22-14.01.41:201][333]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-14.01.41:201][333]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2022.10.22-14.01.41:201][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003604s)
+[2022.10.22-14.01.41:205][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.22-14.01.41:206][333]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.10.22-14.01.41:206][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-14.01.41:206][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-14.01.41:206][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-14.01.41:206][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-14.01.41:206][333]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-14.01.41:206][333]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-14.01.41:206][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-14.01.41:206][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-14.01.41:206][333]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-14.01.41:206][333]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-14.01.41:206][333]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-14.01.41:206][333]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-14.01.41:208][333]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-14.01.41:208][333]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-14.01.41:215][333]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-14.01.41:215][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-14.01.41:215][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-14.01.41:216][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-14.01.41:216][333]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-14.01.41:216][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-14.01.41:216][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-14.01.41:217][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-14.01.41:217][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-14.01.41:217][333]LogInit: FAudioDevice initialized.
+[2022.10.22-14.01.41:217][333]LogAudio: Display: Audio Device (ID: 13) registered with world 'DefaultMap'.
+[2022.10.22-14.01.41:225][333]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-14.01.41:226][333]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-23.01.41
+[2022.10.22-14.01.41:227][333]LogWorld: Bringing up level for play took: 0.001172
+[2022.10.22-14.01.41:227][333]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.10.22-14.01.41:229][333]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.01.41:229][333]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.01.41:229][333]PIE: 서버가 로그인했습니다.
+[2022.10.22-14.01.41:230][333]PIE: 에디터에서 플레이 총 시작 시간 0.061초입니다.
+[2022.10.22-14.01.46:282][937]LogTemp: Overlapped
+[2022.10.22-14.01.46:282][937]LogTemp: Overlapped
+[2022.10.22-14.02.05:072][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.02.05:072][177]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.02.05:072][177]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-14.02.05:072][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.02.05:082][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-14.02.05:106][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.02.05:109][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.02.05:109][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.02.05:110][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.02.05:114][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.22-14.02.05:139][178]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.10.22-14.02.16:998][591]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-14.02.17:003][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-14.02.17:003][591]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 8:02:17)
+[2022.10.22-14.02.17:003][591]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.02.17:006][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002184s)
+[2022.10.22-14.02.17:006][591]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-14.02.17:007][591]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2022.10.22-14.02.17:007][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003206s)
+[2022.10.22-14.02.17:012][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.22-14.02.17:013][591]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.10.22-14.02.17:013][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-14.02.17:013][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-14.02.17:013][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-14.02.17:013][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-14.02.17:013][591]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-14.02.17:013][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-14.02.17:013][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-14.02.17:013][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-14.02.17:013][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-14.02.17:013][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-14.02.17:013][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-14.02.17:013][591]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-14.02.17:015][591]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-14.02.17:015][591]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-14.02.17:022][591]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-14.02.17:022][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-14.02.17:022][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-14.02.17:022][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-14.02.17:023][591]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-14.02.17:023][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-14.02.17:023][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-14.02.17:024][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-14.02.17:024][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-14.02.17:024][591]LogInit: FAudioDevice initialized.
+[2022.10.22-14.02.17:024][591]LogAudio: Display: Audio Device (ID: 14) registered with world 'DefaultMap'.
+[2022.10.22-14.02.17:033][591]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-14.02.17:034][591]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-23.02.17
+[2022.10.22-14.02.17:035][591]LogWorld: Bringing up level for play took: 0.001147
+[2022.10.22-14.02.17:035][591]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.10.22-14.02.17:037][591]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.02.17:037][591]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.02.17:037][591]PIE: 서버가 로그인했습니다.
+[2022.10.22-14.02.17:038][591]PIE: 에디터에서 플레이 총 시작 시간 0.035초입니다.
+[2022.10.22-14.02.19:406][874]LogTemp: Overlapped
+[2022.10.22-14.02.19:406][874]LogTemp: Overlapped
+[2022.10.22-14.02.19:406][874]LogTemp: Overlapped
+[2022.10.22-14.02.19:406][874]LogTemp: Overlapped
+[2022.10.22-14.02.19:415][875]LogTemp: Overlapped
+[2022.10.22-14.02.19:415][875]LogTemp: Overlapped
+[2022.10.22-14.02.19:423][876]LogTemp: Overlapped
+[2022.10.22-14.02.19:423][876]LogTemp: Overlapped
+[2022.10.22-14.02.19:431][877]LogTemp: Overlapped
+[2022.10.22-14.02.19:431][877]LogTemp: Overlapped
+[2022.10.22-14.02.19:440][878]LogTemp: Overlapped
+[2022.10.22-14.02.19:440][878]LogTemp: Overlapped
+[2022.10.22-14.02.19:448][879]LogTemp: Overlapped
+[2022.10.22-14.02.19:448][879]LogTemp: Overlapped
+[2022.10.22-14.02.19:456][880]LogTemp: Overlapped
+[2022.10.22-14.02.19:456][880]LogTemp: Overlapped
+[2022.10.22-14.02.19:465][881]LogTemp: Overlapped
+[2022.10.22-14.02.19:465][881]LogTemp: Overlapped
+[2022.10.22-14.02.19:473][882]LogTemp: Overlapped
+[2022.10.22-14.02.19:473][882]LogTemp: Overlapped
+[2022.10.22-14.02.19:481][883]LogTemp: Overlapped
+[2022.10.22-14.02.19:481][883]LogTemp: Overlapped
+[2022.10.22-14.02.19:490][884]LogTemp: Overlapped
+[2022.10.22-14.02.19:490][884]LogTemp: Overlapped
+[2022.10.22-14.02.19:490][884]LogTemp: Overlapped
+[2022.10.22-14.02.19:490][884]LogTemp: Overlapped
+[2022.10.22-14.02.26:006][666]LogTemp: Overlapped
+[2022.10.22-14.02.28:806][  2]LogTemp: Overlapped
+[2022.10.22-14.02.29:881][131]LogTemp: Overlapped
+[2022.10.22-14.02.29:881][131]LogTemp: Overlapped
+[2022.10.22-14.02.29:881][131]LogTemp: Overlapped
+[2022.10.22-14.02.29:881][131]LogTemp: Overlapped
+[2022.10.22-14.02.29:889][132]LogTemp: Overlapped
+[2022.10.22-14.02.29:889][132]LogTemp: Overlapped
+[2022.10.22-14.02.29:889][132]LogTemp: Overlapped
+[2022.10.22-14.02.29:889][132]LogTemp: Overlapped
+[2022.10.22-14.02.29:981][143]LogTemp: Overlapped
+[2022.10.22-14.02.29:981][143]LogTemp: Overlapped
+[2022.10.22-14.02.29:981][143]LogTemp: Overlapped
+[2022.10.22-14.02.29:981][143]LogTemp: Overlapped
+[2022.10.22-14.02.29:981][143]LogTemp: Overlapped
+[2022.10.22-14.02.29:981][143]LogTemp: Overlapped
+[2022.10.22-14.02.29:981][143]LogTemp: Overlapped
+[2022.10.22-14.02.29:981][143]LogTemp: Overlapped
+[2022.10.22-14.02.52:548][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.02.52:548][816]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.02.52:548][816]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-14.02.52:549][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.02.52:560][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-14.02.52:583][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.02.52:587][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.02.52:587][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.02.52:588][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.02.52:592][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.22-14.02.52:614][817]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.10.22-14.04.13:712][547]LogTemp: Repeating last play command: 선택된 뷰포트
+[2022.10.22-14.04.13:717][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-14.04.13:717][547]PIE: New page: PIE 세션: DefaultMap (2022. 10. 23. 오전 8:04:13)
+[2022.10.22-14.04.13:717][547]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.04.13:719][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002084s)
+[2022.10.22-14.04.13:720][547]LogAIModule: Creating AISystem for world DefaultMap
+[2022.10.22-14.04.13:720][547]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2022.10.22-14.04.13:720][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003059s)
+[2022.10.22-14.04.13:724][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.22-14.04.13:725][547]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.10.22-14.04.13:725][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-14.04.13:725][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-14.04.13:725][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-14.04.13:725][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-14.04.13:725][547]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-14.04.13:725][547]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-14.04.13:725][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-14.04.13:725][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-14.04.13:726][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-14.04.13:726][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-14.04.13:726][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-14.04.13:726][547]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-14.04.13:728][547]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-14.04.13:728][547]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-14.04.13:735][547]LogAudioMixer: Display: Using Audio Device 스피커(USBFC1)
+[2022.10.22-14.04.13:735][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-14.04.13:735][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-14.04.13:735][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-14.04.13:735][547]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-14.04.13:735][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-14.04.13:735][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-14.04.13:736][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-14.04.13:736][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-14.04.13:736][547]LogInit: FAudioDevice initialized.
+[2022.10.22-14.04.13:736][547]LogAudio: Display: Audio Device (ID: 15) registered with world 'DefaultMap'.
+[2022.10.22-14.04.13:747][547]LogLoad: Game class is 'BP_MyGameMode_C'
+[2022.10.22-14.04.13:749][547]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2022.10.22-23.04.13
+[2022.10.22-14.04.13:749][547]LogWorld: Bringing up level for play took: 0.001164
+[2022.10.22-14.04.13:749][547]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.10.22-14.04.13:751][547]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.04.13:751][547]LogActor: Warning: MyWeapon /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap:PersistentLevel.MyWeapon_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2022.10.22-14.04.13:751][547]PIE: 서버가 로그인했습니다.
+[2022.10.22-14.04.13:752][547]PIE: 에디터에서 플레이 총 시작 시간 0.036초입니다.
+[2022.10.22-14.04.18:151][ 60]LogTemp: Overlapped
+[2022.10.22-14.04.20:184][304]LogTemp: Overlapped
+[2022.10.22-14.04.21:685][484]LogTemp: Overlapped
+[2022.10.22-14.04.21:685][484]LogTemp: Overlapped
+[2022.10.22-14.04.21:693][485]LogTemp: Overlapped
+[2022.10.22-14.04.21:693][485]LogTemp: Overlapped
+[2022.10.22-14.04.21:701][486]LogTemp: Overlapped
+[2022.10.22-14.04.21:701][486]LogTemp: Overlapped
+[2022.10.22-14.04.21:710][487]LogTemp: Overlapped
+[2022.10.22-14.04.21:710][487]LogTemp: Overlapped
+[2022.10.22-14.04.21:718][488]LogTemp: Overlapped
+[2022.10.22-14.04.21:718][488]LogTemp: Overlapped
+[2022.10.22-14.04.21:726][489]LogTemp: Overlapped
+[2022.10.22-14.04.21:726][489]LogTemp: Overlapped
+[2022.10.22-14.04.21:735][490]LogTemp: Overlapped
+[2022.10.22-14.04.21:735][490]LogTemp: Overlapped
+[2022.10.22-14.04.21:743][491]LogTemp: Overlapped
+[2022.10.22-14.04.21:743][491]LogTemp: Overlapped
+[2022.10.22-14.04.21:751][492]LogTemp: Overlapped
+[2022.10.22-14.04.21:751][492]LogTemp: Overlapped
+[2022.10.22-14.04.21:760][493]LogTemp: Overlapped
+[2022.10.22-14.04.21:760][493]LogTemp: Overlapped
+[2022.10.22-14.04.21:760][493]LogTemp: Overlapped
+[2022.10.22-14.04.21:760][493]LogTemp: Overlapped
+[2022.10.22-14.04.21:876][507]LogTemp: Overlapped
+[2022.10.22-14.04.21:876][507]LogTemp: Overlapped
+[2022.10.22-14.04.29:911][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.04.29:911][464]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DefaultMap
+[2022.10.22-14.04.29:911][464]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-14.04.29:911][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.04.29:920][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-14.04.29:944][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-14.04.29:948][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-14.04.29:948][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.04.29:949][464]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-14.04.29:952][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.22-14.04.29:981][466]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.10.22-14.05.44:266][377]LogEditorViewport: Clicking on Actor (LMB): BP_MyCharacter_C (BP_MyCharacter)
+[2022.10.22-14.05.46:883][667]LogEditorViewport: Clicking on Actor (LMB): BP_MyCharacter_C (BP_MyCharacter)
+[2022.10.22-14.07.52:347][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.10.22-14.07.53:895][674]LogSlate: Window '콘텐츠 저장' being destroyed
+[2022.10.22-14.07.53:931][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.10.22-14.07.53:943][674]LogSavePackage: Moving '../../../../../../Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/Saved/DefaultMapED0883F944602BB001CA9D95B629FC11.tmp' to '../../../../../../Users/shuni/Desktop/Box/GITHUB/CPP_UnrealEngine/TestUnrealEngine/Content/Maps/DefaultMap.umap'
+[2022.10.22-14.07.53:948][674]LogFileHelpers: Saving map 'DefaultMap' took 0.023
+[2022.10.22-14.07.53:960][674]AssetCheck: New page: 에셋 저장:  DefaultMap
+[2022.10.22-14.07.53:961][674]LogContentValidation: Display: World /Game/Maps/DefaultMap.DefaultMap 유효성 검사 중
