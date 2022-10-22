@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TestUnrealEngine.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{BE9DEE69-0CA9-4CD7-BE7E-9A6BCFECC05A}</UniqueIdentifier>
+      <UniqueIdentifier>{0409171F-40BC-4865-B631-0B499368D492}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TestUnrealEngine.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{BED8317E-FEAE-42F7-B324-D6457CD756B5}</UniqueIdentifier>
+      <UniqueIdentifier>{CADAFB87-7C28-4867-A1F7-7CCD4B165350}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -28,7 +28,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TestUnrealEngine">
-      <UniqueIdentifier>{C631A0B9-B1ED-487B-B85F-60AA51CD1CC7}</UniqueIdentifier>
+      <UniqueIdentifier>{338A3F11-F2EB-4F19-8BDE-5791F3788D19}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\TestUnrealEngine\MyAnimInstance.cpp">
       <Filter>Source\TestUnrealEngine</Filter>
@@ -46,6 +46,12 @@
       <Filter>Source\TestUnrealEngine</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\TestUnrealEngine\MyGameModeBase.h">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestUnrealEngine\MyWeapon.cpp">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestUnrealEngine\MyWeapon.h">
       <Filter>Source\TestUnrealEngine</Filter>
     </ClInclude>
     <None Include="..\..\Source\TestUnrealEngine\TestUnrealEngine.Build.cs">
