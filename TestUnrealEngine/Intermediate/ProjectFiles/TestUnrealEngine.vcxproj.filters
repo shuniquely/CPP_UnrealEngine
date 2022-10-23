@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TestUnrealEngine.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{BDB185BC-7CD6-4E9D-B4FD-B3F5EC275FC7}</UniqueIdentifier>
+      <UniqueIdentifier>{92ECA549-52AF-4972-ABCC-BEDAC4E7626F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TestUnrealEngine.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{0713148F-F3D6-406A-A592-731291839EED}</UniqueIdentifier>
+      <UniqueIdentifier>{E40DC922-A5C0-4F95-9A1E-4828EFBC7D12}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -28,8 +28,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TestUnrealEngine">
-      <UniqueIdentifier>{4F84A4CE-4EF2-4B74-9867-61C1C425084E}</UniqueIdentifier>
+      <UniqueIdentifier>{170EB9EA-3338-43DB-B1FA-A39523FD6F7A}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TestUnrealEngine\MyAIController.cpp">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestUnrealEngine\MyAIController.h">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\TestUnrealEngine\MyAnimInstance.cpp">
       <Filter>Source\TestUnrealEngine</Filter>
     </ClCompile>
@@ -40,6 +46,12 @@
       <Filter>Source\TestUnrealEngine</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\TestUnrealEngine\MyCharacter.h">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestUnrealEngine\MyCharacterWidget.cpp">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestUnrealEngine\MyCharacterWidget.h">
       <Filter>Source\TestUnrealEngine</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\TestUnrealEngine\MyGameInstance.cpp">
