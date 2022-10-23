@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TestUnrealEngine.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{92ECA549-52AF-4972-ABCC-BEDAC4E7626F}</UniqueIdentifier>
+      <UniqueIdentifier>{92FEC40B-336A-4854-976F-8FBE000CD0FD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TestUnrealEngine.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{E40DC922-A5C0-4F95-9A1E-4828EFBC7D12}</UniqueIdentifier>
+      <UniqueIdentifier>{BCE3E268-E6A1-4657-B811-D05E3EB48524}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -28,8 +28,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TestUnrealEngine">
-      <UniqueIdentifier>{170EB9EA-3338-43DB-B1FA-A39523FD6F7A}</UniqueIdentifier>
+      <UniqueIdentifier>{86260C29-B2BF-449C-AC21-ED2383BDC0E7}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TestUnrealEngine\BTTask_FindPatrolPos.cpp">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestUnrealEngine\BTTask_FindPatrolPos.h">
+      <Filter>Source\TestUnrealEngine</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\TestUnrealEngine\MyAIController.cpp">
       <Filter>Source\TestUnrealEngine</Filter>
     </ClCompile>

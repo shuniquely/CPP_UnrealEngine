@@ -7,6 +7,7 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\TestUnrealEngineEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\BTTask_FindPatrolPos.cpp.obj"
 "C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\MyAIController.cpp.obj"
 "C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\MyAnimInstance.cpp.obj"
 "C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\MyCharacter.cpp.obj"
@@ -17,6 +18,7 @@
 "C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\MyWeapon.cpp.obj"
 "C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\TestUnrealEngine.cpp.obj"
 "C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\TestUnrealEngineGameModeBase.cpp.obj"
+"C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\BTTask_FindPatrolPos.gen.cpp.obj"
 "C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\MyAIController.gen.cpp.obj"
 "C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\MyAnimInstance.gen.cpp.obj"
 "C:\Users\shuni\Desktop\Box\GITHUB\CPP_UnrealEngine\TestUnrealEngine\Intermediate\Build\Win64\UE4Editor\Development\TestUnrealEngine\MyCharacter.gen.cpp.obj"
